@@ -1,0 +1,25 @@
+.video-duration-1 {
+    background-color: #000;
+    position: absolute;
+    border-radius: 3px;
+    bottom: 128px;
+    right: 8px;
+    padding:3px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+}
+
+.video-duration-2 {
+    background-color: #000;
+    position: absolute;
+    border-radius: 3px;
+    bottom: 128px;
+    right: 8px;
+    padding:3px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+}

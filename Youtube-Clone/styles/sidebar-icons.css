@@ -1,0 +1,184 @@
+.side-bar {
+    position: fixed;
+    top: 56px;
+    bottom: 0px;
+    left: 0px;
+    z-index: 750;
+    display: flex;
+    flex-direction: column;
+    margin-left: -9px;
+    margin-top: 13px;
+    padding-top: 7px;
+    margin-right: 0px;
+}
+
+.home-icon {
+    height: 24px;
+    margin-left:4px;
+    cursor: pointer;
+}
+
+.home-button:hover {
+    background-color:#e3e3e3 ;
+    border-radius: 10px; 
+}
+
+.home-icon-text {
+    font-size: 10.2px;
+    margin-top: 3px;
+    margin-left:2.1px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.shorts-icon {
+    margin-left: -6px;
+    margin-bottom: 0px;
+}
+
+.shorts-icon-text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    margin-top: 1px;
+    margin-left: -8px;
+}
+
+.explore-icon {
+    height: 24px;
+    margin-top: 13px;
+    margin-left: 3px;
+}
+
+.explore-icon-text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    margin-top: 1px;
+    margin-left: -2px;
+}
+
+.subscription-icon {
+    height: 24px;
+    margin-top: 20px;
+    margin-left: -7px;
+}
+
+.subscription-icon:hover {
+    background-color:#e3e3e3 ;
+}
+
+.subs-icon-text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    margin-top: 1px;
+    margin-left: -4px;
+}
+
+.youtube-music-icon {
+    height: 24px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.ytmusic-button {
+    margin-left: 18px;
+    margin-right: 10px ;
+    margin-top: 13px;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-bottom: 4px;
+}
+
+.ytmusic-button:hover {
+    background-color: #e3e3e3;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.ytmusic-icon-text {
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    margin-left: 2px;
+    margin-bottom: 0px;
+}
+
+.library-icon {
+    height: 24px;
+    margin-top: 15px;
+}
+
+.library-icon-text {
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+}
+
+.home-button {
+    margin-left: 15px;
+    margin-right: 9px ;
+    padding-left: 22px;
+    margin-top: -7px;
+    padding-top: 7px;
+}
+
+.shorts-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 15px;
+    margin-right: 4px;
+    padding-left: 1px;
+    margin-top: 18px;
+    padding-right: 0px;
+    padding-top: 3px;
+    padding-bottom: 0px;
+}
+
+.shorts-button:hover {
+    background-color: #e3e3e3;
+    border-radius: 10px;
+}
+
+.explore-button {
+    margin-left: 15px;
+    margin-right: 4px;
+    padding-left: 24px;
+    margin-top: 18px;
+}
+
+.explore-button:hover {
+    background-color: #e3e3e3;
+    border-radius: 10px;
+}
+
+.subscription-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 14px;
+    margin-right: 4px;
+    padding-left: 6px;
+    margin-top: 12px;
+    padding-right: 3px;
+}
+
+.subscription-button:hover {
+    background-color: #e3e3e3;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.library-button {
+    margin-left: 16px;
+    padding-right: 0px;
+    margin-right: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 24px;
+}
+
+.library-button:hover {
+    background-color: #e3e3e3;
+    border-radius: 10px;
+}
